@@ -12,7 +12,7 @@
 @media (max-width: 768px) {
 .conteiner {flex-direction: column;}
 .footer {padding-top: 7%;}
-.header_container {width: 84%; flex-direction: column;}
+.header_container {width: 84%; flex-direction: column; jastify-content: space-beyween;}
 .footer_container {width: 84%;}
 .content {width: 100%;}
 .header_links {
