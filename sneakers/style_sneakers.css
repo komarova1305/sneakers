@@ -9,7 +9,7 @@
   src: url(fonts/AnonymousPro-Regular.ttf);
 }
 
-@media (max-width: 758px) {
+@media (max-width: 768px) {
 .conteiner {flex-direction: column;}
 .footer {padding-top: 24px;}
 .header_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
