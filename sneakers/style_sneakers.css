@@ -58,7 +58,7 @@ body {background: #F1F1F1;}
     flex-direction: row;
     align-items: center;
     justify-content: space-between; 
-    width: 73%;
+    width: 100%;
     background: red;
 }
 
