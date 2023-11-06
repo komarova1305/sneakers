@@ -11,7 +11,7 @@
 
 @media (max-width: 768px) {
 .conteiner {flex-direction: column;}
-.footer {padding-top: 1%;}
+.footer {padding-top: 10%;}
 }
 
 a {text-decoration: none; color:black;}
