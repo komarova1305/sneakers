@@ -150,7 +150,7 @@ li {
 }
 
 .text {
-    display: block;
+    display: flex;
     border-radius: 12px;
     max-width: 371px;
     padding-left: 24px;
