@@ -9,6 +9,10 @@
   src: url(fonts/AnonymousPro-Regular.ttf);
 }
 
+@media (max-width: 768px) {
+.content__cards{flex-direction: column;}
+}
+
 a {text-decoration: none; color:black;}
 
 body {background: #F1F1F1;}
