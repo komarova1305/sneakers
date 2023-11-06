@@ -9,7 +9,27 @@
   src: url(fonts/AnonymousPro-Regular.ttf);
 }
 
-
+@media (max-width: 768px) {
+.header_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
+.footer_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
+.header_links {
+	width: Hug (108px);
+	height: Hug (20px);
+	      }
+.footer_links {
+	width: Hug (108px);
+	height: Hug (20px);
+	      }
+.subtitle {
+	font-family: Anonymous Pro;
+	font-size: 11px;
+	  }
+.content {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+	 }
+}
 
 a {text-decoration: none; color:black;}
 
