@@ -10,9 +10,8 @@
 }
 
 @media (max-width: 768px) {
-.content__cards{flex-direction: column;}
-.header_container {width: 100%;}
-.footer_container {width: 100%;}
+.conteiner {flex-direction: column;}
+.footer {padding-top: 1%;}
 }
 
 a {text-decoration: none; color:black;}
