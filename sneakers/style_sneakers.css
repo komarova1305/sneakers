@@ -54,11 +54,10 @@ body {background: #F1F1F1;}
 }
 
 .footer_conteiner {
-
+    display: flex;
     align-items: center;
     justify-content: space-between; 
     width: 73%;
-    background: red;
 }
 
 .header_container {
