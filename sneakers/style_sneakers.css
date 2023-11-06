@@ -52,7 +52,7 @@ body {background: #F1F1F1;}
     width: 100%;
 }
 
-.footer_conteiner {
+.footer_container {
     display: flex;
     align-items: center;
     justify-content: space-between; 
