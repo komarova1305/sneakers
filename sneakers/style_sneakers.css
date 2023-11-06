@@ -151,7 +151,6 @@ li {
 
 .text {
     display: block;
-    flex-direction: column;
     border-radius: 12px;
     max-width: 371px;
     padding-left: 24px;
