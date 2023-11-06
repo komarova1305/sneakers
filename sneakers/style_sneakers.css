@@ -11,7 +11,7 @@
 
 @media (max-width: 768px) {
 .conteiner {flex-direction: column;}
-.footer {padding-top: 7%;}
+.footer {padding-top: 24px;}
 .header_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
 .footer_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
 .header_links {
@@ -43,7 +43,7 @@ body {background: #F1F1F1;}
     align-items: center;
     background: white;
     width: 100%;
-    padding-top: 1%;
+    padding-top: 24px;
 }
 
 .footer {
