@@ -12,6 +12,9 @@
 @media (max-width: 768px) {
 .conteiner {flex-direction: column;}
 .footer {padding-top: 7%;}
+.header_conteiner {width: 84%;}
+.footer_conteiner {width: 84%;}
+.content {width: 84%;}
 .header_links {
 	width: Hug (108px);
 	height: Hug (20px);
