@@ -24,7 +24,8 @@
 	font-family: Anonymous Pro;
 	font-size: 11px;
 	  }
-.content {display: flex;
+.content {
+	display: flex;
     flex-direction: column;
     align-items: center;
 	 }
@@ -53,7 +54,7 @@ body {background: #F1F1F1;}
 }
 
 .footer_container {
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: space-between; 
     width: 73%;
