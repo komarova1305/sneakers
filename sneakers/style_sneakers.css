@@ -10,7 +10,6 @@
 }
 
 @media (max-width: 768px) {
-.conteiner {flex-direction: column;}
 .header_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
 .footer_container {width: 100%; flex-direction: column; jastify-content: space-beyween;}
 .header_links {
